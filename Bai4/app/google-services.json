@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433950888563",
+    "project_id": "fir-e-c78f3",
+    "storage_bucket": "fir-e-c78f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433950888563:android:ca0ed695a85a9d60315006",
+        "android_client_info": {
+          "package_name": "thangtrinh.st.ueh.edu.firebasee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433950888563-r1scrfgv742vrdmgu6gjua4o5c9ucsfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhyuVpWfpZZJsEjWGXGzAKVAaQzLki1rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433950888563-r1scrfgv742vrdmgu6gjua4o5c9ucsfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
